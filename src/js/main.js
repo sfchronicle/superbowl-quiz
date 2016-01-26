@@ -119,7 +119,7 @@ var calculateResult = function() {
     new Share(".share-results", {
       description: "I scored " + result.score + "/" + result.total + "! How big a fan of the NFL are you? Here are 15 questions to test your knowledge of Super Bowl history.",
         ui: {
-          flyout: "bottom right"
+          flyout: "top center"
         },
         networks: {
           email: {
