@@ -3,40 +3,40 @@
     "title": "Expert",
     "min": 13,
     "max": 15,
-    "description": "Congrats, but go outside now and then",
+    "description": "Congrats, but go outside now and then.",
     "result-img": "./assets/quiz_result_expert.JPG",
-    "captions": "Head Coach Bill Walsh of the San Francisco 49ers gets carried off the field by his players after they defeated the Cincinnati Bengals 20-16 in Super Bowl XXIII  on January 31, 1989 at Joe Robbie  Stadium in Miami, Florida. Focus On Sport/ Getty Images"
+    "captions": "Bill Walsh certainly qualified as an expert coach in the Super Bowl.  Getty Images"
   },
   {
     "title": "Knowledgeable",
     "min": 10,
     "max": 12,
-    "description": "Old enough to remember single-Roman-digit games",
+    "description": "Old enough to remember single-Roman-digit games.",
     "result-img": "./assets/quiz_result_knowledgeable.JPG",
-    "captions": "San Francisco 49ers quarterback Steve Young (on ground) is congratulated by tackle Steve Wallace (top) as he signals his fifth touchdown pass of the game against the San Diego Chargers 29 January 1995 during the second half of Super Bowl XXIX in Miami. The 49ers lead the Chargers 49-18 in the fourth quarter. Doug Collier/ Getty Images"
+    "captions": "Steve Young only started one Super Bowl, but he was great in that one game.  Doug Collier/ Getty Images"
   },
   {
     "title": "Average",
     "min": 7,
     "max": 9,
-    "description": "Hears of Brett Favre, but not Bart Starr",
+    "description": "Hears of Brett Favre, but not Bart Starr.",
     "result-img": "./assets/quiz_result_average.JPG",
-    "captions": "25 Jan 1998: Quarterback Brett Favre #4 of the Green Bay Packers in action against the Denver Broncos during Super Bowl XXXII at Qualcomm Stadium in San Diego, California. The Denver Broncos defeated the Green Bay Packers 31-24. Andy Lyons/ Getty Images"
+    "captions": "For all his greatness, Brett Favre was a very average 1-1 in the Super Bowl. Andy Lyons / Getty Images"
   },
   {
     "title": "Meh",
     "min": 4,
     "max": 6,
-    "description": "It's not all about the nachos and beer, ya know",
+    "description": "It's not all about the nachos and beer, ya know.",
     "result-img": "./assets/quiz_result_meh.JPG",
-    "captions": "Jan 20, 1985: San Francisco 49ers fans head to Super Bowl XIX in Palo Alto. Jerry Telfer/ The Chronicle"
+    "captions": "There's nothing wrong with being a casual fan. Jerry Telfer / The Chronicle"
   },
   {
     "title": "Failure",
     "min": 0,
     "max": 3,
-    "description": "You go shopping on Super Bowl Sunday, huh.",
+    "description": "You go shopping on Super Bowl Sunday, huh?",
     "result-img": "./assets/quiz_result_fail.JPG",
-    "captions": "American football player EJ Holub (1939 - 1994), linebacker for the Kansas City Chiefs, lies on the floor and yawns before the start of the First AFL-NFL World Championship Game (later renamed Super Bowl I) at Los Angeles Memorial Coliseum, Los Angeles, California, January 15, 1967.  Bill Ray/ The Life Image Collection"
+    "captions": "Were you as bored as the Chiefs' EJ Holub before Super Bowl I? Bill Ray/The Life Image Collection"
   }
 ]

@@ -15,7 +15,7 @@ var overviewTemplate = require("./_overviewTemplate.html");
 ich.addTemplate("overviewTemplate", overviewTemplate);
 
 var score = 0;
-var id = 1;
+var id = 15;
 var total = 0;
 
 new Share(".share-button", {
@@ -100,9 +100,9 @@ var calculateResult = function() {
     result.score = score;
     // display result
     result.score = score;
-    if (result.score > 5) {
+    if (result.score > 10) {
       result.color = "#589040"
-    } else if (result.score > 2) {
+    } else if (result.score > 5) {
       result.color = "#F5AE3F"
     } else {
       result.color = "#DE5636"
