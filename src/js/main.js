@@ -15,7 +15,7 @@ var overviewTemplate = require("./_overviewTemplate.html");
 ich.addTemplate("overviewTemplate", overviewTemplate);
 
 var score = 0;
-var id = 15;
+var id = 1;
 var total = 0;
 
 new Share(".share-button", {
