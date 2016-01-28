@@ -3,7 +3,7 @@
     "id": 1,
     "question": "Who won the first Super Bowl?",
     "image": "./assets/quiz_question_1.JPG",
-    "summary": "The game was not called the Super Bowl, but the NFL-AFL Championship Game. They were separate leagues, and many people, including legendary Packers coach Vince Lombardi, thought the NFL was far superior. That proved true in this game, with the Packers beating Hank Stram's Kansas City Chiefs 35-10.",
+    "summary": "The game was not called the Super Bowl, but the NFL-AFL Championship Game. They were separate leagues, and many people, including legendary Packers coach Vince Lombardi, thought the NFL was far superior. That proved true in this game, with the Packers beating the Kansas City Chiefs 35-10.",
     "storyurl": "http://www.history.com/this-day-in-history/packers-beat-chiefs-in-first-super-bowl",
     "caption": "The Packers' Elijah Pitts (22) carries the ball in Super Bowl I. // Getty Images"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "question": "Which team has lost five Super Bowls, the most ever?",
     "image": "./assets/quiz_question_2.JPG",
-    "summary": "Denver did not lose their first four Super Bowls spectacularly, as the Bills did by losing four in a row, but the Broncos and their fans had the same frustration over the years as the team could not grab the brass ring. After four failures, the Broncos finally broke through winning Super Bowls XXXII and XXXIII behind an aging John Elway, before the Seahawks crushed them two years ago in Super Bowl XLVII for loss No. 5.",
+    "summary": "Denver did not lose its first four Super Bowls spectacularly, as the Bills did by losing four in a row, but the Broncos and their fans had the same frustration over the years as the team could not grab the brass ring. After four failures, the Broncos finally broke through winning Super Bowls XXXII and XXXIII behind an aging John Elway, before the Seahawks crushed them two years ago in Super Bowl XLVII for loss No. 5.",
     "storyurl": "http://www.sfchronicle.com/sports/article/Seahawks-beat-Broncos-43-8-to-win-1st-Super-Bowl-5198920.php",
     "caption": "Peyton Manning after one of the Broncos' five Super Bowl losses. // Kevin C. Cox/Getty Images"
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "question": "Which team has never appeared in a Super Bowl?",
     "image": "./assets/quiz_question_3.JPG",
-    "summary": "Jacksonville and Houston are relatively new expansion teams, so they have had fewer opportunities, but woebegone Cleveland and Detroit are old franchises that have been shut out of all 50 Super Bowls. The Browns came close, losing the 1986 AFC Championship Game against the Broncos in overtime after John Elway engineered a now-famous 98-yard touchdown drive over the final 5 minutes, 32 seconds of regulation to tie the game. ",
+    "summary": "Jacksonville and Houston are relatively new expansion teams, so they have had fewer opportunities, but woebegone Cleveland and Detroit are old franchises that have been shut out of the Super Bowl. The Browns came close, losing the 1986 AFC Championship Game against the Broncos in overtime after John Elway engineered a now-famous 98-yard touchdown drive over the final 5 minutes, 32 seconds of regulation to tie the game. ",
     "storyurl": "http://www.profootballhof.com/news/the-drive/",
     "caption": "The Browns are one of four teams to never make the Super Bowl. // Patrick Smith/Getty Images"
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "question": "How many touchdowns did Joe Namath throw after guaranteeing victory in Super Bowl III?",
     "image": "./assets/quiz_question_4.JPG",
-    "summary": "Namath and the AFL's New York Jets were considered a joke, compared with the NFL's mighty Baltimore Colts. Namath was almost laughed out of Miami when he predicted a Jets victory. That is, until the Jets won 16-7, contributing greatly to the merger of the leagues. Namath had a nice game, 17-for-28 for 206 yards and no interceptions, outplaying Baltimore quarterbacks Earl Morrall and Johnny Unitas to win the game's MVP award. ",
+    "summary": "Namath and the AFL's New York Jets were considered a joke, compared with the NFL's mighty Baltimore Colts. Namath was almost laughed out of Miami when he predicted a Jets victory. That is, until the Jets won 16-7, contributing greatly to the merger of the leagues. Namath had a nice game, 17-for-28 for 206 yards, no interceptions and no touchdowns, winning the game's MVP award. ",
     "storyurl": "http://www.sfchronicle.com/news/article/Jets-Namath-guaranteed-a-win-in-Super-Bowl-III-6748130.php?t=dfb1d78c4b5c56181f&cmpid=twitter-premium",
     "caption": "MVP Joe Namath in Super Bowl III. // Getty Images"
   },
@@ -36,14 +36,14 @@
     "question": "Which state has hosted the most Super Bowls?",
     "image": "./assets/quiz_question_5.JPG",
     "summary": "From the beginning, the NFL (and AFL) wanted the Super Bowl to be a warm-weather destination, free of the threat of rain to spoil the big event. Florida in January is the perfect spot. After the first Super Bowl was played at the Los Angeles Coliseum, the next two were at the Orange Bowl in Miami. New Orleans also became a popular choice because of its indoor stadium, the Superdome, and party atmosphere of the French Quarter. The most popular sites: Florida (15), California (11, previously) and Louisiana (10).",
-    "storyurl": "http://www.sfgate.com/49ers/article/Stanford-Stadium-s-limitations-led-to-NFL-6779841.php",
+    "storyurl": "http://www.sfchronicle.com/49ers/article/Stanford-Stadium-s-limitations-led-to-NFL-6779841.php",
     "caption": "Super Bowl III was one of 15 played in Florida. // Getty Images"
   },
   {
     "id": 6,
     "question": "Who has played on the most Super Bowl-winning teams?",
     "image": "./assets/quiz_question_6.JPG",
-    "summary": "Haley was one of the greatest pass rushers in NFL history. He also had many off-field issues that later were explained when he was diagnosed with bipolal disorder. At the time, those issues got Haley traded to the Cowboys, even though he helped them win Super Bowls XXIII and XXIV. Haley then won three rings in Dallas, making him the only player to play on five Super Bowl champions.",
+    "summary": "Haley was one of the greatest pass rushers in NFL history. He also had off-field issues that were explained when he was diagnosed with bipolar disorder. At the time, those issues got Haley traded from the 49ers to the Cowboys, even though he helped S.F. win Super Bowls XXIII and XXIV. Haley then won three rings in Dallas, making him the only player to play on five Super Bowl champion teams.",
     "storyurl": "http://www.sfchronicle.com/49ers/article/49ers-Haley-Raiders-Brown-among-8-voted-6054837.php?t=6ebc3b12615c56181f&cmpid=twitter-premium",
     "caption": "Charles Haley (94) is the only five-time champion. // Getty Images"
   },
@@ -53,13 +53,13 @@
     "image": "./assets/quiz_question_7.JPG",
     "summary": "Marching bands provided the entertainment in the first three Super Bowls. For Super Bowl IV, the hosts called on San Francisco's own Carol Channing (Lowell High, Class of 1938) to perform in a Mardi Gras-themed show. The Rolling Stones did a halftime show at Super Bowl XL. Alas, the Beatles and Elvis did not.",
     "storyurl": "http://www.foxnews.com/entertainment/2014/01/20/carol-channing-on-super-bowl-iv-performance-didnt-even-rehearse/",
-    "caption": "The University of Arizona marching bands performs at Super Bowl I. // Robert Riger/Getty Images"
+    "caption": "The University of Arizona marching band performs at Super Bowl I. // Robert Riger/Getty Images"
   },
   {
     "id": 8,
     "question": "Where was the Bay Area's only previous Super Bowl held?",
     "image": "./assets/quiz_question_8.JPG",
-    "summary": "Then-NFL Commissioner Pete Rozelle was a University of San Francisco graduate and always wanted to see a Super Bowl in the Bay Area. The 49ers played at Candlestick Park, which did not have enough seats for the NFL's liking. So the league awarded Super Bowl XIX to Stanford Stadium, where 84,059 ticket holders sat on wooden benches, softened by cushions provided by Apple Computer, and saw the 49ers beat the Miami Dolphins 38-16.",
+    "summary": "Then-NFL Commissioner Pete Rozelle was a University of San Francisco graduate and always wanted to see a Super Bowl in the Bay Area. The 49ers played at Candlestick Park, which did not have enough seats for the NFL's liking. So the league awarded Super Bowl XIX to Stanford Stadium, where 84,059 ticket holders sat on wooden benches, softened by cushions provided by Apple Inc., and saw the 49ers beat the Miami Dolphins 38-16.",
     "storyurl": "http://www.sfchronicle.com/49ers/article/Montana-Marino-to-play-in-Candlestick-flag-5425556.php?t=3762e6fdf65c56181f&cmpid=twitter-premium",
     "caption": "Fans at Stanford Stadium saw the 49ers win a Super Bowl. // Steve Ringman/The Chronicle"
   },
@@ -67,9 +67,9 @@
     "id": 9,
     "question": "Who holds the record for most passing yards in a Super Bowl at 414?",
     "image": "./assets/quiz_question_9A.JPG",
-    "summary": "Kurt Warner was a true rags-to-riches story, undrafted out of college, a former player from the Arena Football League who bagged groceries before he got that football opportunity. He was supposed to be the St. Louis Rams' backup quarterback in the 1999 season but took over for an injured Trent Green in the preseason and ended up winning the NFL MVP and leading the Rams to a 23-16 victory over the Tennessee Titans in Super Bowl XXXIV.",
+    "summary": "Kurt Warner was a true rags-to-riches story, undrafted out of college, a former player from the Arena Football League who bagged groceries before he got an opportunity in the NFL. He was supposed to be the St. Louis Rams' backup quarterback in the 1999 season but took over for an injured Trent Green in the preseason and ended up winning the MVP award and leading the Rams to a 23-16 victory over the Tennessee Titans in Super Bowl XXXIV.",
     "storyurl": "http://www.sfchronicle.com/49ers/article/Super-Bowl-XXXIV-Rams-get-their-title-by-6721829.php?t=91e747c57e5c56181f&cmpid=twitter-premium",
-    "caption": "Kurt Warner during the Super Bowl in 2000. // Lutz Bongarts/Getty Images"
+    "caption": "Kurt Warner during Super Bowl XXXIV. // Lutz Bongarts/Getty Images"
   },
   {
     "id": 10,
@@ -91,15 +91,15 @@
     "id": 12,
     "question": "Who holds the career Super Bowl rushing record?",
     "image": "./assets/quiz_question_12.JPG",
-    "summary": "Franco Harris is famous for one play, the \"Immaculate Reception,\" which led to the Steelers' game-winning touchdown in a 1972 divisoinal playoff against the Raiders. But he also holds the all-time Super Bowl rushing mark, 354 yards, helped by playing in four games. He also holds the Super Bowl rushing attempts mark at 101.",
+    "summary": "Franco Harris is famous for one play, the \"Immaculate Reception,\" which led to the Steelers' game-winning touchdown in a 1972 divisional playoff game against the Raiders. But he also holds the all-time Super Bowl rushing mark, 354 yards, helped by playing in four games. ",
     "storyurl": "http://www.profootballhof.com/players/franco-harris/",
     "caption": "Pittsburgh's Franco Harris runs against the Rams. // Getty Images"
   },
   {
     "id": 13,
-    "question": "How many times has a team repeated as Super Bowl champion?",
+    "question": "How many teams have repeated as Super Bowl champions?",
     "image": "./assets/quiz_question_13.JPG",
-    "summary": "Love him or hate him, New England head coach Bill Belichick knows how to get to Super Bowls and win them. His Patriots are the most recent team to win back-to-back Super Bowls (XXXVIII, XXXIX). The 49ers also have done it (XXIII, XXIV). The Packers won the first two games.",
+    "summary": "The Packers won the first two. Miami won Super Bowls VII and VIII. The Steelers won the next two, as well as Super Bowls XIII and XIV. The 49ers have done it (XXIII, XXIV), and the Cowboys and Broncos did it in the 1990s. New England and head coach Bill Belichick repeated in 2004 and 2005.",
     "storyurl": "http://www.sfchronicle.com/raiders/article/Tarnished-or-not-Belichick-ranks-among-the-best-6052397.php?t=7b777b1ab35c56181f&cmpid=twitter-premium",
     "caption": "Bill Belichick's Patriots were the last team to repeat. // Jeff Haynes/AFP/Getty Images"
   },
@@ -115,7 +115,7 @@
     "id": 15,
     "question": "Who performed in last year's halftime show?",
     "image": "./assets/quiz_question_15.JPG",
-    "summary": "Yeah, you're one of those folks who remember a third-grade math test but forget what you had for lunch the day before. Lenny Kravitz and Missy Elliott co-starred in the game at Super Bowl XLIX.",
+    "summary": "Yeah, you're one of those folks who remember a third-grade math test but forget what you had for lunch the day before. Lenny Kravitz and Missy Elliott co-starred with Katy Perry in Super Bowl XLIX's halftime show.",
     "storyurl": "http://www.sfchronicle.com/style/article/Katy-Perry-s-eccentric-style-6056842.php?t=adbe12a0db5c56181f&cmpid=twitter-premium",
     "caption": "Katy Perry and Lenny Kravitz perform at Super Bowl XLIX. // Christian Petersen/Getty Images"
   }

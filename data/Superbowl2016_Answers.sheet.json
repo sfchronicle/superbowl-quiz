@@ -201,7 +201,7 @@
   },
   {
     "id": 12,
-    "answer": "Ricky Waters"
+    "answer": "Ricky Watters"
   },
   {
     "id": 12,
@@ -213,12 +213,12 @@
   },
   {
     "id": 13,
-    "answer": 7
+    "answer": 7,
+    "correct": "x"
   },
   {
     "id": 13,
-    "answer": 8,
-    "correct": "x"
+    "answer": 8
   },
   {
     "id": 13,
