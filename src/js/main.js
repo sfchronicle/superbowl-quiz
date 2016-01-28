@@ -109,7 +109,7 @@ var calculateResult = function() {
     }
 
     result.total = total;
-    track("interactive", "superbowl-quiz", "total-" + total);
+    track("interactive", "superbowl-quiz", "total-" + score);
     result.rows = rows;
     console.log(result);
 
